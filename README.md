@@ -5,7 +5,7 @@ Este repositório conserva um experimento anterior de apresentação no GitHub. 
 ## Onde acompanhar meu trabalho
 
 - **[Perfil GitHub](https://github.com/DanielHSec)** — apresentação principal, código e repositórios.
-- **[Portfólio](https://daniel-abreu.vercel.app/)** — projetos e estudos de caso.
+- **[Portfólio](https://www.danielhabreu.dev/)** — projetos e estudos de caso.
 - **[LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/)** — contato profissional.
 
 ## Sobre este repositório
