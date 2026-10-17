@@ -7,6 +7,7 @@ Este repositório conserva um experimento anterior de apresentação no GitHub. 
 - **[Perfil GitHub](https://github.com/DanielHSec)** — apresentação principal, código e repositórios.
 - **[Portfólio](https://www.danielhabreu.dev/)** — projetos e estudos de caso.
 - **[LinkedIn](https://www.linkedin.com/in/danielhenrique-cybersecurity/)** — contato profissional.
+- **[E-mail](mailto:contato@danielhabreu.dev)** — contato@danielhabreu.dev.
 
 ## Sobre este repositório
 
